@@ -1,0 +1,7 @@
+https://hackcu.org/live/?utm_campaign=hackcu4&utm_source=hackcu&utm_medium=email
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/user/quickstart/#custom-headers
+https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+http://iatageo.com/
+https://opensky-network.org/apidoc/rest.html#all-state-vectors
+https://www.johndcook.com/blog/2009/04/27/converting-miles-to-degrees-longitude-or-latitude/

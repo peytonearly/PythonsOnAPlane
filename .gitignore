@@ -1,0 +1,4 @@
+# Tokens #
+##########
+# .env files contain sensitive tokens
+*.env
